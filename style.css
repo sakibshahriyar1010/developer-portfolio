@@ -39,3 +39,22 @@ section{
      background-repeat: no-repeat;
      
  }
+
+ .half2{
+     width: 50%;
+ }
+
+ .half2 img{
+     width:80%; 
+     padding-left: 10%;
+
+}
+.half2 h1, h2, p{
+    padding-right:30%;
+}
+.section2{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 100px;
+}   
